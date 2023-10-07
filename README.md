@@ -24,5 +24,7 @@ https://nbviewer.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_2_spe
 
 [google drive](https://drive.google.com/file/d/1ZEB2uWfgOQXjlov2ympsiEmKbp1zXkmJ/view?usp=sharing) еще один бимформер и нейросетевая оценка
 
+https://wikisound.org/Принцип_работы_компрессора_(Fl_Studio) - подробно про компресиию
+
 
 
