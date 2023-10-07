@@ -5,7 +5,7 @@ Digital Signal Processing course
 | Date | Theme | Slides | Recording | Homework |
 | --- |:---:| --- | --- | --- |
 | 30.09.2023 | Лекция 1 - Фурье, психоакустика, сжатие| [google drive](https://docs.google.com/presentation/d/1-MTTRLxDWWN95thOqYWfardYY7H8LySP/edit?usp=sharing&ouid=116385375708859011313&rtpof=true&sd=true) | | |
-| 07.10.2023 | Лекция 2 - Методы препроцессинга | [google drive](https://docs.google.com/presentation/d/1-xe19Zp4qH1UU4dGTDYMKpfVVAEBMYTJ/edit?usp=sharing&ouid=116385375708859011313&rtpof=true&sd=true) | | dsp/домашка/module1lecture2.md |
+| 07.10.2023 | Лекция 2 - Методы препроцессинга | [google drive](https://docs.google.com/presentation/d/1-xe19Zp4qH1UU4dGTDYMKpfVVAEBMYTJ/edit?usp=sharing&ouid=116385375708859011313&rtpof=true&sd=true) | | домашка/module1lecture2.md |
 
 
 # Доп. материалы:
