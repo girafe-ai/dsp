@@ -32,6 +32,7 @@ def mixer(original, noise, snr_db):
 Смешать на значениях SNR -5dB, 0dB, 5dB, 10dB
 
 
+
 Составить табличку:
 
 | файл | SNR | SDR | SI-SDR |	PESQ | NISQA (все пять значений) | DNSMOS | MOS |
