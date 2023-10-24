@@ -20,7 +20,7 @@ Digital Signal Processing course
 
 # Доп. материалы:
 
-1 лекция: 
+### 1 лекция: 
 
 https://ozlib.com/930324/informatika/kriticheskie_polosy_sluha статья про работу внутреннего уха,
 
@@ -28,7 +28,7 @@ https://alphacephei.com/ru/lecture1.pdf про мел-кепстр
 
 https://nbviewer.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_2_spectrum.ipynb про Radix FFT (раздел Алгоритмы БПФ)
 
-2 лекция:
+### 2 лекция:
 
 [google drive](https://drive.google.com/file/d/1ZCVVsASj_LTQaZd8fu5QAYbiaX-IHZV-/view?usp=sharing) статья с тем самым переходом формул ковариации в MVDR
 
@@ -36,11 +36,11 @@ https://nbviewer.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_2_spe
 
 https://wikisound.org/Принцип_работы_компрессора_(Fl_Studio) - подробно про компресиию
 
-3 лекция:
+### 3 лекция:
 
 все ссылки на соответствующих слайдах презентации 
 
-4 лекция:
+### 4 лекция:
 
 все ссылки на соответствующих слайдах презентации;
 
