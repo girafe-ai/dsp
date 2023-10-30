@@ -8,7 +8,7 @@ Digital Signal Processing course
 | 07.10.2023 | Лекция 2 - Методы препроцессинга | [google drive](https://docs.google.com/presentation/d/1-xe19Zp4qH1UU4dGTDYMKpfVVAEBMYTJ/edit?usp=sharing&ouid=116385375708859011313&rtpof=true&sd=true) | https://youtu.be/Yaa07rkIrpM | домашка/module1lecture2.md |
 | 14.10.2023 | Лекция 3 - Метрики | [google drive](https://docs.google.com/presentation/d/1-CrCMpRoecLnFmC32aNWyd6lGVdWCtGn/edit?usp=sharing&ouid=116385375708859011313&rtpof=true&sd=true) | https://youtu.be/Xtc3KihnTQ4 | домашка/module2lecture3.md |
 | 21.10.2023 | Лекция 4 - Архитектуры (VAD, шумодавы, деревербераторы) | [google drive](https://docs.google.com/presentation/d/1-10tCf77A1sWYCFEy6HpXR4TwPvw7rFo/edit?usp=share_link&ouid=116385375708859011313&rtpof=true&sd=true) | https://youtu.be/3t4nQn4LVzE | домашка/module3lecture4.md |
-| 28.10.2023 | Лекция 5 - Архитектуры (AEC, speech separation) | [google drive](https://docs.google.com/presentation/d/1-10tCf77A1sWYCFEy6HpXR4TwPvw7rFo/edit?usp=share_link&ouid=116385375708859011313&rtpof=true&sd=true) |   |   |
+| 28.10.2023 | Лекция 5 - Архитектуры (AEC, speech separation) | [google drive](https://docs.google.com/presentation/d/1-10tCf77A1sWYCFEy6HpXR4TwPvw7rFo/edit?usp=share_link&ouid=116385375708859011313&rtpof=true&sd=true) | https://youtu.be/wSZKbmF3qNQ |   |
 
 # Как устроен зачет:
 Вариант 1 - Сделать домашнее задание и залить его на свой гит. Максимально подробно покрыть код домашки комментариями, написать грамотное ридми, чтобы я мог склонить ваш репозиторий себе, сам его запустить и понять, что именно происходит в каждом модуле. Оценка за курс = оценка за эту домашку.
