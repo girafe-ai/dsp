@@ -10,6 +10,7 @@ Digital Signal Processing course
 | 21.10.2023 | Лекция 4 - Архитектуры (VAD, шумодавы, деревербераторы) | [google drive](https://docs.google.com/presentation/d/1-10tCf77A1sWYCFEy6HpXR4TwPvw7rFo/edit?usp=share_link&ouid=116385375708859011313&rtpof=true&sd=true) | https://youtu.be/3t4nQn4LVzE | домашка/module3lecture4.md |
 | 28.10.2023 | Лекция 5 - Архитектуры (AEC, speech separation) | [google drive](https://docs.google.com/presentation/d/1-10tCf77A1sWYCFEy6HpXR4TwPvw7rFo/edit?usp=share_link&ouid=116385375708859011313&rtpof=true&sd=true) | https://youtu.be/wSZKbmF3qNQ |   |
 | 11.11.2023 | Лекция 6 - Голос и Voice Transfer | [google drive](https://docs.google.com/presentation/d/1-NCYG8_k2BtnCNYYFOab2OsZ9q9n6uxC/edit?usp=sharing&ouid=116385375708859011313&rtpof=true&sd=true) | https://youtu.be/DGLlahbiPfU | домашка/module4lecture6.md |
+| 18.11.2023 | Лекция 7 - Text-to-speech | [google docs](https://docs.google.com/presentation/d/1q1JShN0GspFUAv79qT0goK25xD_yGhcfibw696TNB0A/edit?usp=sharing) |  |  |
 
 # Как устроен зачет:
 Вариант 1 - Сделать домашнее задание и залить его на свой гит. Максимально подробно покрыть код домашки комментариями, написать грамотное ридми, чтобы я мог склонить ваш репозиторий себе, сам его запустить и понять, что именно происходит в каждом модуле. Оценка за курс = оценка за эту домашку.
@@ -63,6 +64,11 @@ https://bshall.github.io/knn-vc/ - послушать все сетки
 https://www.hindawi.com/journals/jcnc/2014/290147/ - статья про голосовой тракт 
 
 https://dood.al/pinktrombone/ - симулятор ротовой и носовой полости :)
+
+### 7 лекция
+
+https://docs.google.com/presentation/d/1bq04KJjLTM1NIKIscmY733FC8ZPxrplv/edit?usp=sharing&ouid=116385375708859011313&rtpof=true&sd=true - доп. слайды по LPC и LSP кодированию (откуда появился LPCNet)
+
 
 
 
