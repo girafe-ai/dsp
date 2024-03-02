@@ -1,4 +1,4 @@
-# Материалы 3 лекции:
+# Лекция 3 - метрики
 
 Слайды - [google drive](https://docs.google.com/presentation/d/1-CrCMpRoecLnFmC32aNWyd6lGVdWCtGn/edit?usp=sharing&ouid=116385375708859011313&rtpof=true&sd=true)
 
