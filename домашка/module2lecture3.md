@@ -1,6 +1,4 @@
-## Два варианта:
-
-Для обоих вариантов актуальны одни и те же метрики:
+Метрики:
 
 https://torchmetrics.readthedocs.io/en/stable/audio/signal_distortion_ratio.html
 
@@ -12,14 +10,6 @@ https://github.com/gabrielmittag/NISQA
 
 https://github.com/microsoft/DNS-Challenge/tree/master/DNSMOS
 
-
-### Простой вариант:
-
-Взять три полученных в первом модуле файла (оригинал gt.wav, вашу свертку этого файла с полученным импульсным откликом и настоящую запись проигранного в комнате оригинала)
-
-Прогнать все три файла через приведенные выше метрики
-
-### Интересный варинат:
 
 Написать функцию, которая будет смешивать чистый голос и шум (можно взять вот [этот](https://freesound.org/people/15GPanskaHladikova_Danuse/sounds/461143/)) по заданному в децибелах SNR.
 
