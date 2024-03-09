@@ -7,3 +7,5 @@
 все ссылки на соответствующих слайдах презентации;
 
 https://github.com/Rikorose/DeepFilterNet/tree/main - DeepFilterNet2
+
+https://github.com/NVIDIA/NeMo/blob/da6d825b8c2fec0a3b8e0d2c33a7600f242db4c1/nemo/collections/asr/parts/submodules/multi_head_attention.py - стриминговый аттеншн
