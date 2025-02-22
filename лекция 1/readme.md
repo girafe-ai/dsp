@@ -9,5 +9,3 @@
 https://ozlib.com/930324/informatika/kriticheskie_polosy_sluha статья про работу внутреннего уха
 
 https://alphacephei.com/ru/lecture1.pdf про мел-кепстр
-
-https://nbviewer.org/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_2_spectrum.ipynb про Radix FFT (раздел Алгоритмы БПФ)
