@@ -9,3 +9,5 @@
 https://ozlib.com/930324/informatika/kriticheskie_polosy_sluha статья про работу внутреннего уха
 
 https://alphacephei.com/ru/lecture1.pdf про мел-кепстр
+
+https://xiph.org/vorbis/faq .ogg формат
