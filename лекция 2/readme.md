@@ -12,3 +12,5 @@
 [google drive](https://drive.google.com/file/d/1ZEB2uWfgOQXjlov2ympsiEmKbp1zXkmJ/view?usp=sharing) еще один бимформер и нейросетевая оценка
 
 https://wikisound.org/Принцип_работы_компрессора_(Fl_Studio) - подробно про компрессию
+
+https://drive.google.com/file/d/1kdZWIzdedQPwRrcB7kx47-2BgsCHPudl/view?usp=sharing - примеры работы очень жесткого компрессора на реальных файлах
