@@ -1,7 +1,7 @@
 # Лекция 2 - Методы препроцессинга 
 Слайды - [google drive](https://docs.google.com/presentation/d/1-xe19Zp4qH1UU4dGTDYMKpfVVAEBMYTJ/edit?usp=sharing&ouid=116385375708859011313&rtpof=true&sd=true)
 
-Запись - https://youtu.be/mlc2OMUenN4
+Запись - 
 
 Домашка - домашка/module1lecture2.md 
 
