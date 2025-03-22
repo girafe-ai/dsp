@@ -13,3 +13,5 @@ https://github.com/NVIDIA/NeMo/blob/da6d825b8c2fec0a3b8e0d2c33a7600f242db4c1/nem
 https://arxiv.org/pdf/2402.13511 - Mel-FullSubNet
 
 https://arxiv.org/pdf/2102.03207 - TruNET
+
+https://arxiv.org/abs/1607.05666 - фича PCEN
