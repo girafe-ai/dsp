@@ -9,3 +9,9 @@
 https://arxiv.org/pdf/2007.06833.pdf - sudo rm -rf
 
 https://arxiv.org/pdf/2002.08933.pdf - WaveSplit
+
+https://bshall.github.io/knn-vc/ - послушать все сетки 
+
+https://www.hindawi.com/journals/jcnc/2014/290147/ - статья про голосовой тракт 
+
+https://dood.al/pinktrombone/ - симулятор ротовой и носовой полости :)
