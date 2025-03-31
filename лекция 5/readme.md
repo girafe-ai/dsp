@@ -2,7 +2,8 @@
 
 Слайды - [google drive](https://docs.google.com/presentation/d/1-NCYG8_k2BtnCNYYFOab2OsZ9q9n6uxC/edit?usp=sharing&ouid=116385375708859011313&rtpof=true&sd=true)
 
-Запись - 
+Запись - [Youtube](https://youtu.be/YEtm3G_8S8Y) 
+[Yandex Disk](https://disk.yandex.ru/d/O50W1juqoRWirg)
 
 все ссылки на соответствующих слайдах презентации;
 
